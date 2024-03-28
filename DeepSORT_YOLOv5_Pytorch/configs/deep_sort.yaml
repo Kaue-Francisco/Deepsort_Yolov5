@@ -1,0 +1,9 @@
+DEEPSORT:
+  MAX_AGE: 70
+  MAX_DIST: 0.2
+  MAX_IOU_DISTANCE: 0.7
+  MIN_CONFIDENCE: 0.3
+  NMS_MAX_OVERLAP: 0.5
+  NN_BUDGET: 100
+  N_INIT: 3
+  REID_CKPT: d:\0-PROJETOS\2-GIT\Deepsort_Yolov5\DeepSORT_YOLOv5_Pytorch\deep_sort\deep\checkpoint\ckpt.t7
